@@ -1,2 +1,0 @@
-watchdog>=3.0.0
-confluent_kafka>=2.13.2
